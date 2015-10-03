@@ -1,6 +1,6 @@
 To open up our application once you have downloaded or cloned the repository just open the index.html located in the Web-Optimizations directory.
 From there you can navigate to any of the other pages located within the repository. If you would prefer not to download or clone the repository
-this link will take you directly to the main page. http://tmurph850.github.io/Web-Optimization/
+this link will take you directly to the main page. http://tmurph850.github.io/Project-4/
 
 Located within views/js/main.js and starting with line 520 I went in and changed the old function that updates the position of the pizzas
 in the background. I removed the repeating variable out of the assignment loop so it would stop causing a forced synchronous layout. At line 545
