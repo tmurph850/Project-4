@@ -10,5 +10,4 @@ Located within views/js/main.js and starting with line 520 I went in and changed
 in the background. I removed the repeating variable out of the assignment loop so it would stop causing a forced synchronous layout. At line 545
 I reduced the number of pizzas created by the function. Around line 452 I changed the function (changePizzaSizes) so that it would no longer access
 the offsetWidth property and no longer cause FS layout.
-
 I also added a few css properties to the .mover class inside of views/css/style.css, these styles help reduce paint cost.
