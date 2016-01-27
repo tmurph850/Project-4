@@ -2,7 +2,7 @@
 
 To open up our application once you have downloaded or cloned the repository just open the index.html located in the main directory.
 From there you can navigate to any of the other pages located within the repository. If you would prefer not to download or clone the repository
-this [link](http://tmurph850.github.io/project-4/) will take you directly to the live version.
+this [link](http://tmurph850.github.io/frontend-nanodegree-web-optimization/) will take you directly to the live version.
 
 
 ## Changes made
